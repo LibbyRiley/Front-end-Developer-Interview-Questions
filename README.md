@@ -46,15 +46,15 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### HTML Questions:
 
-* What does a `doctype` do?
-* What's the difference between standards mode and quirks mode?
-* What's the difference between HTML and XHTML?
+* <a href="http://stackoverflow.com/questions/7695044/what-does-doctype-html-do">What does a `doctype` do?</a>
+* <a href="http://reference.sitepoint.com/css/doctypesniffing">What's the difference between standards mode and quirks mode?</a>
+* <a href="http://www.sitepoint.com/web-foundations/differences-html-xhtml/">What's the difference between HTML and XHTML?</a>
 * Are there any problems with serving pages as `application/xhtml+xml`?
 * How do you serve a page with content in multiple languages?
-* What kind of things must you be wary of when design or developing for multilingual sites?
-* What are `data-` attributes good for?
-* Consider HTML5 as an open web platform. What are the building blocks of HTML5?
-* Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+* <a href="http://www.nomensa.com/blog/2010/7-tips-and-techniques-for-multi-lingual-website-accessibility">What kind of things must you be wary of when design or developing for multilingual sites?</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes">What are `data-` attributes good for?</a>
+* Consider HTML5 as an open web platform. <a href="http://lacquer.fi/radidoc/The_building_blocks_of_a_HTML5_web_page">What are the building blocks of HTML5?</a>
+* <a href="http://www.w3schools.com/html/html5_webstorage.asp">Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.</a>
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 * What is progressive rendering?
@@ -63,8 +63,8 @@ This file contains a number of front-end interview questions that can be used wh
 #### CSS Questions:
 
 * What is the difference between classes and ID's in CSS?
-* What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
-* Describe Floats and how they work.
+* <a href="http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css">What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?</a>
+* <a href="http://www.smashingmagazine.com/2009/10/19/the-mystery-of-css-float-property/">Describe Floats and how they work.</a>
 * Describe z-index and how stacking context is formed.
 * Describe BFC(Block Formatting Context) and how it works.
 * What are the various clearing techniques and which is appropriate for what context?
