@@ -42,7 +42,7 @@ This file contains a number of front-end interview questions that can be used wh
 * <a href="http://www.techrepublic.com/blog/web-designer/how-to-prevent-flash-of-unstyled-content-on-your-websites/">What is Flash of Unstyled Content? How do you avoid FOUC?</a>
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * <a href="https://developers.google.com/web/fundamentals/look-and-feel/animations/css-vs-javascript?hl=en">Explain some of the pros and cons for CSS animations versus JavaScript animations.</a>
-* <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing>What does CORS stand for and what issue does it address?</a>
+* <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing">What does CORS stand for and what issue does it address?</a>
 
 #### HTML Questions:
 
