@@ -31,18 +31,18 @@ This file contains a number of front-end interview questions that can be used wh
 * Can you describe your workflow when you create a web page?
 * If you have 5 different stylesheets, how would you best integrate them into the site?
 * Can you describe the difference between progressive enhancement and graceful degradation?
-* How would you optimize a website's assets/resources?
-* How many resources will a browser download from a given domain at a time?
+* <a href="http://www.hongkiat.com/blog/ultimate-guide-to-web-optimization-tips-best-practices/">How would you optimize a website's assets/resources?</a>
+* <a href="http://stackoverflow.com/questions/9583172/how-many-resources-will-a-browser-download-from-a-given-domain-at-a-time">How many resources will a browser download from a given domain at a time?</a>
   * What are the exceptions?
-* Name 3 ways to decrease page load (perceived or actual load time).
+* <a href="http://www.pointit.com/blog/5-steps-for-faster-page-load-speed/">Name 3 ways to decrease page load (perceived or actual load time).</a>
 * If you jumped on a project and they used tabs and you used spaces, what would you do?
 * Describe how you would create a simple slideshow page.
 * If you could master one technology this year, what would it be?
 * Explain the importance of standards and standards bodies.
-* What is Flash of Unstyled Content? How do you avoid FOUC?
+* <a href="http://www.techrepublic.com/blog/web-designer/how-to-prevent-flash-of-unstyled-content-on-your-websites/">What is Flash of Unstyled Content? How do you avoid FOUC?</a>
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
-* Explain some of the pros and cons for CSS animations versus JavaScript animations.
-* What does CORS stand for and what issue does it address?
+* <a href="https://developers.google.com/web/fundamentals/look-and-feel/animations/css-vs-javascript?hl=en">Explain some of the pros and cons for CSS animations versus JavaScript animations.</a>
+* <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing>What does CORS stand for and what issue does it address?</a>
 
 #### HTML Questions:
 
